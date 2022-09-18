@@ -14,4 +14,4 @@ var randomInsult = "Your " + randomBodyPart + " is like a " +
                   randomAdjective + " " + randomWord + "!!!";
 
 
-console.log (randomInsult)
+console.log (randomInsult);
